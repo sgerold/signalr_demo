@@ -3,3 +3,5 @@
 ################################################################################
 
 /signalr_demo/.vs/signalr_demo
+/signalr_demo/bin/Debug/net6.0
+/signalr_demo/obj
